@@ -2,9 +2,8 @@ const products = [
   {
     id: "6228fe63b7e6cb904bbe0165",
     price: 150,
-    name: "Suéter Branco",
-    imageUrl:
-      "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+    name: "SG Master",
+    imageUrl: "https://sisteminformatica.com.br/images/Co15_SG_Master.png",
   },
   {
     id: "6228fec7b7e6cb904bbe016f",
